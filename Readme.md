@@ -54,8 +54,8 @@ lifestyle-disease-predictor/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Pankaj-Bashera/lifestyle-disease-predictor.git
-cd lifestyle-disease-predictor
+git clone https://github.com/Pankaj-Bashera/lifestyle_disease_predictor.git
+cd lifestyle_disease_predictor
 ```
 
 Install dependencies:
@@ -130,4 +130,5 @@ Feel free to fork the repo, make improvements, and submit a pull request.
 
 
 ---
+
 
