@@ -81,7 +81,7 @@ jupyter notebook notebooks/model_training.ipynb
 ```
 
 ---
-
+<!--
 ## 📊 Example Input
 
 | Feature           | Example Value |
@@ -93,13 +93,13 @@ jupyter notebook notebooks/model_training.ipynb
 | Sleep Hours       | 6             |
 
 ---
-
+-->
 ## 📈 Results
 
-* **Accuracy:** 88%
-* **Precision:** 0.86
-* **Recall:** 0.84
-* **F1 Score:** 0.85
+* **Accuracy:** Loading
+* **Precision:** Loading
+* **Recall:** Loading
+* **F1 Score:** Loading
 
 ---
 
@@ -130,5 +130,6 @@ Feel free to fork the repo, make improvements, and submit a pull request.
 
 
 ---
+
 
 
