@@ -193,4 +193,3 @@ For bugs or suggestions, open an issue on GitHub.
 
 ---
 
-This file serves as the main project documentation for `/docs/readme.md`. Let me know if you want additional files like `/docs/modeling.md`, `/docs/dataset.md`, or `/docs/api.md`.
