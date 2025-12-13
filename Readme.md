@@ -96,7 +96,7 @@ jupyter notebook notebooks/model_training.ipynb
 -->
 ## 📈 Results
 
-* **Accuracy:** Loading
+* **Accuracy:** 89.2%
 * **Precision:** Loading
 * **Recall:** Loading
 * **F1 Score:** Loading
@@ -130,6 +130,7 @@ Feel free to fork the repo, make improvements, and submit a pull request.
 
 
 ---
+
 
 
 
