@@ -96,10 +96,11 @@ jupyter notebook notebooks/model_training.ipynb
 -->
 ## 📈 Results
 
-* **Accuracy:** 89.2%
-* **Precision:** Loading
-* **Recall:** Loading
-* **F1 Score:** Loading
+* **Accuracy:** 89.6%
+* **Precision:** 94.5%
+* **Recall:** 68.5%
+* **F1 Score:** 0.794
+* **ROC AUC:** 0.966
 
 ---
 
