@@ -22,10 +22,10 @@ Lifestyle diseases are on the rise due to poor daily habits. This project aims t
 
 ## 🧠 Machine Learning Workflow
 
-1. **Data Collection:** Health and lifestyle dataset (public or custom)
+1. **Data Collection:** Health and lifestyle dataset (WHO)
 2. **Data Cleaning & Preprocessing:** Handling missing values, encoding categorical data
 3. **Feature Selection:** Identifying key health and lifestyle factors
-4. **Model Training:** Algorithms like Logistic Regression, Random Forest, or XGBoost
+4. **Model Training:** Algorithms like Logistic Regression, KNN and Naive Bayes
 5. **Evaluation:** Accuracy, Precision, Recall, F1-score, ROC curve
 
 ---
@@ -34,13 +34,9 @@ Lifestyle diseases are on the rise due to poor daily habits. This project aims t
 
 ```
 lifestyle-disease-predictor/
-│
+├── docs/
 ├── data/                  # Datasets (not included in repo)
 ├── notebooks/             # Jupyter notebooks for analysis
-├── src/                   # Source code for preprocessing and modeling
-│   ├── preprocess.py
-│   ├── model.py
-│   └── predict.py
 ├── models/                # Saved trained models
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
@@ -131,6 +127,7 @@ Feel free to fork the repo, make improvements, and submit a pull request.
 
 
 ---
+
 
 
 
